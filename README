@@ -4,8 +4,10 @@ http://activitystrea.ms/head/json-activity.html
 The syntax of the schema is defined at
 http://json-schema.org/
 
+The schemas are compatible with version draft-03
+
 To test you can use the following library:
-https://github.com/Constellation/ruby-jsonchema
+https://github.com/garycourt/JSV 
 
 More libraries available in http://json-schema.org/
 
