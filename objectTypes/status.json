@@ -5,7 +5,7 @@
   "properties" :{
     "objectType" :{
       "type" :"string",
-      "default" : "song"
+      "default" : "status"
      }
   }
 }
